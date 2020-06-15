@@ -1,0 +1,35 @@
+/*TAG SELECTORS*/
+body{
+    background-color: #e3fdfd;
+}
+hr {
+    border-style: dotted none none none;
+    border-color: #71c9ce;
+    border-width: 6px;
+    position: center;
+    width: 10%;
+}
+h1{
+    color: #11999e;
+}
+h3{
+    color: #30e3ca;
+}
+img:hover{
+    
+
+}
+
+/*CLASS SELECTORS*/
+.profile{
+    width : 200px;
+    height : 200px;
+}
+.icons{
+    width: 50px;
+    height: 50px;
+}
+/*ID SELECTORS*/
+#heading{
+    color: deepskyblue;
+}
